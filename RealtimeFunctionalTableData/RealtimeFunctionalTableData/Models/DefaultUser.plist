@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Bruce Wayne</string>
+	<key>uid</key>
+	<string>placeholder</string>
+	<key>contacts</key>
+	<dict>
+		<key>b1d013ea-45b5-431c-b2ca-b72a11be0021</key>
+		<dict>
+			<key>name</key>
+			<string>Aquaman</string>
+			<key>email</key>
+			<string>Aquaman@gmail.com</string>
+			<key>phone</key>
+			<string>613-justice-league</string>
+			<key>uid</key>
+			<string>b1d013ea-45b5-431c-b2ca-b72a11be0021</string>
+		</dict>
+		<key>b03c4af9-8dbe-48ba-bbaa-3fb21d261b6c 
+b03c4af9-8dbe-48ba-bbaa-3fb21d261b6c
+b03c4af9-8dbe-48ba-bbaa-3fb21d261b6c 
+</key>
+		<dict>
+			<key>name</key>
+			<string>Superman</string>
+			<key>email</key>
+			<string>Superman@gmail.com</string>
+			<key>phone</key>
+			<string>613-justice-league</string>
+			<key>uid</key>
+			<string>b03c4af9-8dbe-48ba-bbaa-3fb21d261b6c
+</string>
+		</dict>
+		<key>4305a03d-0960-47e2-a447-7228efc95833</key>
+		<dict>
+			<key>name</key>
+			<string>Wonder Woman</string>
+			<key>email</key>
+			<string>WonderWoman@gmail.com</string>
+			<key>phone</key>
+			<string>613-justice-league</string>
+			<key>uid</key>
+			<string>4305a03d-0960-47e2-a447-7228efc95833</string>
+		</dict>
+		<key>11e099e6-c409-442d-8dcd-97738c6d9df1</key>
+		<dict>
+			<key>name</key>
+			<string>The Flash</string>
+			<key>email</key>
+			<string>TheFlash@gmail.com</string>
+			<key>phone</key>
+			<string>613-justice-league</string>
+			<key>uid</key>
+			<string>11e099e6-c409-442d-8dcd-97738c6d9df1</string>
+		</dict>
+		<key>11815dc5-5406-46b1-a7c4-33deeff8b537</key>
+		<dict>
+			<key>name</key>
+			<string>Cyborg</string>
+			<key>email</key>
+			<string>Cyborg@gmail.com</string>
+			<key>phone</key>
+			<string>613-justice-league</string>
+			<key>uid</key>
+			<string>11815dc5-5406-46b1-a7c4-33deeff8b537</string>
+		</dict>
+		<key>ebe640c6-227d-4766-9d5e-dac4a5aebbe2</key>
+		<dict>
+			<key>name</key>
+			<string>Batman</string>
+			<key>email</key>
+			<string>Batman@gmail.com</string>
+			<key>phone</key>
+			<string>613-justice-league</string>
+			<key>uid</key>
+			<string>ebe640c6-227d-4766-9d5e-dac4a5aebbe2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

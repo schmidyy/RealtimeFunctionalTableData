@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:FunctionalTableData"
+      name = "FunctionalTableData">
+      <FileRef
+         location = "group:CODE_OF_CONDUCT.md">
+      </FileRef>
+      <FileRef
+         location = "group:CHANGELOG.md">
+      </FileRef>
+      <Group
+         location = "group:Images"
+         name = "Images">
+         <FileRef
+            location = "group:Banner.png">
+         </FileRef>
+         <FileRef
+            location = "group:Example1.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:docs"
+         name = "docs">
+         <FileRef
+            location = "group:Structs.html">
+         </FileRef>
+         <FileRef
+            location = "group:Enums.html">
+         </FileRef>
+         <FileRef
+            location = "group:index.html">
+         </FileRef>
+         <FileRef
+            location = "group:search.json">
+         </FileRef>
+         <Group
+            location = "group:css"
+            name = "css">
+            <FileRef
+               location = "group:highlight.css">
+            </FileRef>
+            <FileRef
+               location = "group:jazzy.css">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Classes"
+            name = "Classes">
+            <FileRef
+               location = "group:TableCell.html">
+            </FileRef>
+            <FileRef
+               location = "group:Separator.html">
+            </FileRef>
+            <FileRef
+               location = "group:TableHeaderFooter.html">
+            </FileRef>
+            <FileRef
+               location = "group:CollectionCell.html">
+            </FileRef>
+            <Group
+               location = "group:Separator"
+               name = "Separator">
+               <FileRef
+                  location = "group:Tag.html">
+               </FileRef>
+               <FileRef
+                  location = "group:Style.html">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:FunctionalCollectionData"
+               name = "FunctionalCollectionData">
+               <FileRef
+                  location = "group:KeyPath.html">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:FunctionalCollectionData.html">
+            </FileRef>
+            <FileRef
+               location = "group:FunctionalTableData.html">
+            </FileRef>
+            <Group
+               location = "group:FunctionalTableData"
+               name = "FunctionalTableData">
+               <FileRef
+                  location = "group:TableAnimations.html">
+               </FileRef>
+               <FileRef
+                  location = "group:Exception.html">
+               </FileRef>
+               <Group
+                  location = "group:TableAnimations"
+                  name = "TableAnimations">
+                  <FileRef
+                     location = "group:Actions.html">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:KeyPath.html">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:js"
+            name = "js">
+            <FileRef
+               location = "group:jquery.min.js">
+            </FileRef>
+            <FileRef
+               location = "group:jazzy.js">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Enums"
+            name = "Enums">
+            <Group
+               location = "group:EdgeLayout"
+               name = "EdgeLayout">
+               <FileRef
+                  location = "group:Vertical.html">
+               </FileRef>
+               <FileRef
+                  location = "group:Horizontal.html">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:MarginsLayout.html">
+            </FileRef>
+            <FileRef
+               location = "group:EdgeLayout.html">
+            </FileRef>
+            <Group
+               location = "group:MarginsLayout"
+               name = "MarginsLayout">
+               <FileRef
+                  location = "group:Vertical.html">
+               </FileRef>
+               <FileRef
+                  location = "group:Horizontal.html">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Extensions.html">
+         </FileRef>
+         <Group
+            location = "group:Extensions"
+            name = "Extensions">
+            <FileRef
+               location = "group:NSException.html">
+            </FileRef>
+            <FileRef
+               location = "group:UITableView.html">
+            </FileRef>
+            <FileRef
+               location = "group:UIView.html">
+            </FileRef>
+            <FileRef
+               location = "group:UICollectionView.html">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:img"
+            name = "img">
+            <FileRef
+               location = "group:carat.png">
+            </FileRef>
+            <FileRef
+               location = "group:dash.png">
+            </FileRef>
+            <FileRef
+               location = "group:gh.png">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:badge.svg">
+         </FileRef>
+         <Group
+            location = "group:Structs"
+            name = "Structs">
+            <FileRef
+               location = "group:HostCell.html">
+            </FileRef>
+            <FileRef
+               location = "group:CellActions.html">
+            </FileRef>
+            <FileRef
+               location = "group:ExplicitLayoutMarginsTableItemLayout.html">
+            </FileRef>
+            <FileRef
+               location = "group:TableSectionHeaderFooter.html">
+            </FileRef>
+            <FileRef
+               location = "group:TableSectionChangeSet.html">
+            </FileRef>
+            <FileRef
+               location = "group:CombinedLayout.html">
+            </FileRef>
+            <FileRef
+               location = "group:SectionStyle.html">
+            </FileRef>
+            <FileRef
+               location = "group:TableSection.html">
+            </FileRef>
+            <Group
+               location = "group:SectionStyle"
+               name = "SectionStyle">
+               <FileRef
+                  location = "group:Separators.html">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:CellStyle.html">
+            </FileRef>
+            <Group
+               location = "group:CellActions"
+               name = "CellActions">
+               <FileRef
+                  location = "group:SelectionState.html">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:_config.yml">
+         </FileRef>
+         <FileRef
+            location = "group:Classes.html">
+         </FileRef>
+         <Group
+            location = "group:docsets"
+            name = "docsets">
+         </Group>
+         <FileRef
+            location = "group:Typealiases.html">
+         </FileRef>
+         <FileRef
+            location = "group:Protocols.html">
+         </FileRef>
+         <Group
+            location = "group:Protocols"
+            name = "Protocols">
+            <FileRef
+               location = "group:Reusable.html">
+            </FileRef>
+            <FileRef
+               location = "group:TableHeaderFooterConfigType.html">
+            </FileRef>
+            <FileRef
+               location = "group:TableItemConfigType.html">
+            </FileRef>
+            <FileRef
+               location = "group:CollectionItemConfigType.html">
+            </FileRef>
+            <FileRef
+               location = "group:TableSectionType.html">
+            </FileRef>
+            <FileRef
+               location = "group:TableHeaderFooterStateType.html">
+            </FileRef>
+            <FileRef
+               location = "group:BackgroundViewProvider.html">
+            </FileRef>
+            <FileRef
+               location = "group:TableItemLayout.html">
+            </FileRef>
+            <FileRef
+               location = "group:CellConfigType.html">
+            </FileRef>
+            <FileRef
+               location = "group:FunctionalTableDataExceptionHandler.html">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <Group
+         location = "group:FunctionalTableDataDemo"
+         name = "FunctionalTableDataDemo">
+         <Group
+            location = "group:Cells"
+            name = "Cells">
+            <FileRef
+               location = "group:LabelCell.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Resources"
+            name = "Resources">
+            <Group
+               location = "group:Assets.xcassets"
+               name = "Assets.xcassets">
+               <Group
+                  location = "group:table.imageset"
+                  name = "table.imageset">
+                  <FileRef
+                     location = "group:list.pdf">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:collection.imageset"
+                  name = "collection.imageset">
+                  <FileRef
+                     location = "group:keypad.pdf">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:AppIcon.appiconset"
+                  name = "AppIcon.appiconset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Base.lproj"
+               name = "Base.lproj">
+               <FileRef
+                  location = "group:LaunchScreen.storyboard">
+               </FileRef>
+               <FileRef
+                  location = "group:Main.storyboard">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:View Controllers"
+            name = "View Controllers">
+            <FileRef
+               location = "group:CollectionExampleController.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TableExampleController.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:FunctionalTableData.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:LICENSE.txt">
+      </FileRef>
+      <Group
+         location = "group:FunctionalTableDataTests"
+         name = "FunctionalTableDataTests">
+         <FileRef
+            location = "group:FunctionalDataTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TableSectionStyleTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TableSectionChangeSetTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CellStyleTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:FunctionalTableDataDelegateTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TableCellReuseTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TableSectionsValidationTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:FunctionalTableData"
+         name = "FunctionalTableData">
+         <Group
+            location = "group:TableView"
+            name = "TableView">
+            <FileRef
+               location = "group:FunctionalTableData.swift">
+            </FileRef>
+            <FileRef
+               location = "group:FunctionalTableData+UITableViewDelegate.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TableCell.swift">
+            </FileRef>
+            <FileRef
+               location = "group:FunctionalTableData+Cells.swift">
+            </FileRef>
+            <FileRef
+               location = "group:FunctionalTableData+UITableViewDataSource.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TableItemConfigType.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UITableView+Reusable.swift">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:CollectionView"
+            name = "CollectionView">
+            <FileRef
+               location = "group:CollectionCell.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UICollectionView+Reusable.swift">
+            </FileRef>
+            <FileRef
+               location = "group:FunctionalCollectionData.swift">
+            </FileRef>
+            <FileRef
+               location = "group:FunctionalCollectionData+UICollectionViewDataSource.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CollectionItemConfigType.swift">
+            </FileRef>
+            <FileRef
+               location = "group:FunctionalCollectionData+UICollectionViewDelegate.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:TableItemLayout.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BackgroundViewProvider.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TableSectionChangeSet.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Reusable.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TableSectionHeaderFooter.swift">
+         </FileRef>
+         <FileRef
+            location = "group:TableSection.swift">
+         </FileRef>
+         <Group
+            location = "group:Extensions"
+            name = "Extensions">
+            <FileRef
+               location = "group:UIView+Extensions.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UIView+AutoLayout.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Array+TableSection.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:CellStyle.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ItemPath.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CellActions.swift">
+         </FileRef>
+         <FileRef
+            location = "group:CellConfigType.swift">
+         </FileRef>
+         <FileRef
+            location = "group:FunctionalTableData.h">
+         </FileRef>
+         <FileRef
+            location = "group:ScrollViewDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Separator.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:HostCell.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ObjCExceptionRethrower.swift">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:RealtimeFunctionalTableData.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
